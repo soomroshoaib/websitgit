@@ -1,0 +1,112 @@
+
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.menu{
+   background-color: slateblue;
+   position: relative;
+   height: 40px;
+   
+
+}
+.menu li{
+   display: inline-block;
+}
+.contact{
+   position: relative;
+   left: 350px;
+   bottom: 35px;
+   color: whitesmoke;
+}
+.heading{
+  position: relative; 
+  left:1000px;
+  bottom: 50px;
+  color: whitesmoke;
+}
+span{
+   position: relative;
+   left: 500px;
+   bottom: 50px;
+   text-decoration-color: slateblue;
+    
+}
+.soomro{
+   position: relative;
+   left: 1000px;
+   bottom: 48px;
+}
+#soomro{
+   position: relative;
+   left: 450px;
+   bottom: 30px;
+
+}
+.mobile{
+   margin: 10px;
+   padding: 20px;
+}
+
+.paragraph{
+   background-color: slateblue;
+   color: white;
+   text-indent: 100px;
+}
+.shoaib{
+   text-align: center;
+   height: 600px;
+   width: 1300px;
+   margin: 15px;
+   padding: 15px;
+
+}
+.shoaib h3{
+   padding: 20px;
+   font-family: 'Changa', sans-serif;
+}
+.shoaib h1{
+   color:slateblue;
+   font-family: 'Bungee Inline', cursive;
+}
+
+
+.mein{
+   background-color: slateblue;
+   position: relative;
+   top:300px;
+
+}
+.mein img{
+   position: relative;
+   left: 30px;
+   
+}
+.mein h3{
+   color: white;
+   position: relative;
+   left: 30px;
+}
+.mein h2{
+   position: relative;
+   left: 120px;
+   color: white;
+}
+#mein{
+   position: relative;
+   left: 400px;
+   bottom: 5px;
+   color: white;
+}
+#mein h2{
+   position: relative;
+   left: 100px;
+   bottom: 10px;
+}
+.Apple{
+   position: relative;
+   left: 750px;
+   bottom: 300px;
+   color: white;
